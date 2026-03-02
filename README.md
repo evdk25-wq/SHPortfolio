@@ -2,7 +2,7 @@
 
 Ce dépôt contient le code source de mon portfolio professionnel. Le projet adopte une esthétique "Comic-Noir" immersive pour présenter mon profil de développeur Full Stack.
 
-Lien direct vers le portfolio : [Consulter mon site](https://evdk25-wq.github.io/SHPortfolio/html/index.html)
+Lien direct vers le portfolio : [Consulter mon site](https://evdk25-wq.github.io/SHPortfolio/)
 
 ## Identité Visuelle
 Le projet s'appuie sur une direction artistique forte inspirée de la bande dessinée noire classique.
@@ -22,10 +22,7 @@ Le développement a été réalisé avec une attention particulière portée à 
 *   Suivi d'audience : Intégration du script Umami pour l'analyse des visites.
 *   Hébergement suggéré : Compatible avec les plateformes de déploiement continu comme Vercel, Netlify ou GitHub Pages.
 
-## Déploiement Local
-Pour consulter le projet localement :
-1.  Cloner le dépôt : `git clone https://github.com/evdk25-wq/SHPortfolio.git`
-2.  Ouvrir le fichier `html/index.html` dans un navigateur.
+
 
 ## Contact
 *   Profil GitHub : [evdk25-wq](https://github.com/evdk25-wq)
