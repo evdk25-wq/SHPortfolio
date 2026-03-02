@@ -133,25 +133,25 @@ body {
 }
 
 #section-about {
-    background-image: url("../Assets/about.png");
+    background-image: url("../Assets/about.webp");
     background-size: cover;
     background-position: center;
 }
 
 #section-stack {
-    background-image: url("../Assets/stack.png");
+    background-image: url("../Assets/stack.webp");
     background-size: cover;
     background-position: center;
 }
 
 #section-expertise {
-    background-image: url("../Assets/expertise.png");
+    background-image: url("../Assets/expertise.webp");
     background-size: cover;
     background-position: center;
 }
 
 #section-contact {
-    background-image: url("../Assets/contact.png");
+    background-image: url("../Assets/contact.webp");
     background-size: cover;
     background-position: center;
 }
@@ -348,7 +348,7 @@ input:checked+.slider::before {
         display: flex;
         align-items: center;
         justify-content: center;
-        background-image: url("../Assets/accueil.png") !important;
+        background-image: url("../Assets/accueil.webp") !important;
         background-size: cover !important;
         background-position: 22% top !important;
     }
