@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JLVDK - Portfolio Full Stack</title>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Courier+Prime:wght@400;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <script defer src="https://cloud.umami.is/script.js"
+        data-website-id="7a724083-db3c-4a07-bb75-0db860d0457f"></script>
+</head>
+
+<body>
+
+    <canvas id="particles-canvas"></canvas>
+
+    <div class="particle-toggle-container">
+        <label class="switch">
+            <input type="checkbox" id="particleToggle" checked>
+            <span class="slider"></span>
+        </label>
+        <span class="toggle-label">FX</span>
+    </div>
+
+    <div class="intro-text">JLVDK</div>
+
+    <div class="particles" id="particles"></div>
+
+    <div class="comic-container" id="comicContainer">
+        <div class="comic-grid" id="comicGrid">
+            <button class="panel-button" id="btn-1">ABOUT ME</button>
+            <button class="panel-button" id="btn-2">STACK</button>
+            <button class="panel-button" id="btn-3">EXPERTISE</button>
+            <button class="panel-button" id="btn-4">CONTACT</button>
+        </div>
+    </div>
+
+    <button class="back-btn" id="backBtn" style="display: none;">← BACK TO PANELS</button>
+
+    <div class="content-section" id="section-about">
+        <div class="section-inner">
+            <div class="panel-label">PANEL I: ENTER THE GHOST-MAN</div>
+            <h2>ABOUT ME</h2>
+            <p>Développeur Full Stack passionné par la création d'expériences web uniques et mémorables. Je ne me
+                contente pas de coder, je crée des univers visuels qui marquent les esprits.</p>
+            <p>Mon approche combine rigueur technique et créativité débridée. Chaque projet est une opportunité de
+                repousser les limites du web et d'explorer de nouvelles possibilities.</p>
+            <p>Autodidacte et curieux, je reste constamment à l'affût des dernières technologies pour offrir des
+                solutions modernes et performantes.</p>
+        </div>
+    </div>
+
+    <div class="content-section" id="section-stack">
+        <div class="section-inner">
+            <div class="panel-label">PANEL II: THE ARSENAL</div>
+            <h2>STACK TECHNIQUE</h2>
+            <p>Des technologies éprouvées pour des résultats concrets. Chaque ligne de code compte.</p>
+            <div class="stack-grid">
+                <div class="stack-item">HTML5</div>
+                <div class="stack-item">CSS3</div>
+                <div class="stack-item">JAVASCRIPT</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="content-section" id="section-expertise">
+        <div class="section-inner">
+            <div class="panel-label">PANEL III: THE POWERS</div>
+            <h2>EXPERTISES</h2>
+            <p>Une approche complète du développement web, de la conception à la réalisation.</p>
+            <ul class="expertise-list">
+                <li>UI/UX Design - Interfaces intuitives et visuellement impactantes</li>
+                <li>VEO - Optimisation et performance</li>
+                <li>Développement Frontend - Expériences web modernes et responsives</li>
+                <li>Développement Backend - Architecture robuste et scalable</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="content-section" id="section-contact">
+        <div class="section-inner">
+            <div class="panel-label">TO BE CONTINUED IN ISSUE #25!</div>
+            <h2>CONTACT</h2>
+            <p>Prêt à collaborer sur votre prochain projet. Transformons vos idées en réalité.</p>
+            <div class="contact-box">
+                <h3>NEXT ISSUE</h3>
+                <div class="social-links">
+                    <a href="https://github.com/evdk25-wq" target="_blank" class="contact-link">
+                        <i class="fab fa-github"></i> GITHUB
+                    </a>
+                    <a href="https://www.linkedin.com/in/j-l-vdk" target="_blank" class="contact-link">
+                        <i class="fab fa-linkedin"></i> LINKEDIN
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="../Javascript/javascript.js"></script>
+</body>
+
+</html>
