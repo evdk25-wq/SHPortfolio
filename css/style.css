@@ -344,6 +344,11 @@ input:checked+.slider::before {
 }
 
 @media (max-width: 767px) {
+    .content-section {
+        justify-content: flex-start;
+        padding-top: 5rem;
+    }
+
     .comic-container {
         display: flex;
         align-items: center;
@@ -387,7 +392,8 @@ input:checked+.slider::before {
     }
 
     .section-inner {
-        margin-top: 5rem;
+        margin-top: 1rem;
+        margin-bottom: 2rem;
         padding: 1.5rem;
         width: 95%;
     }
