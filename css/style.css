@@ -223,6 +223,26 @@ p {
     transform: translate(-2px, -2px);
 }
 
+.contact-box {
+    background: var(--ink-black);
+    color: var(--paper-white);
+    padding: 2rem;
+    margin-top: 2rem;
+    border-left: 5px solid var(--accent-red);
+}
+
+.contact-box h3 {
+    color: var(--accent-red);
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.social-links {
+    display: flex;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+}
+
 .contact-link {
     display: inline-flex;
     align-items: center;
