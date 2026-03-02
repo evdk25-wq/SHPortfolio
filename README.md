@@ -1,6 +1,6 @@
 # Portfolio - JLVDK
 
-Ce dépôt contient le code source de mon portfolio professionnel. Le projet adopte une esthétique "Comic-Noir" immersive pour présenter mon profil de développeur Full Stack.
+ Le projet adopte une esthétique "Comic-Noir" immersive pour présenter mon profil de développeur Full Stack.
 
 Lien direct vers le portfolio : [Consulter mon site](https://evdk25-wq.github.io/SHPortfolio/)
 
@@ -18,7 +18,7 @@ Le développement a été réalisé avec une attention particulière portée à 
 *   Moteur de Particules : Système de rendu Canvas 2D pour les effets de texture visuelle.
 
 ## Technologies Utilisées
-*   Langages : HTML5, CSS3, JavaScript (ES6+).
+*   Langages : HTML5, CSS3, JavaScript.
 *   Suivi d'audience : Intégration du script Umami pour l'analyse des visites.
 *   Hébergement suggéré : Compatible avec les plateformes de déploiement continu comme Vercel, Netlify ou GitHub Pages.
 
