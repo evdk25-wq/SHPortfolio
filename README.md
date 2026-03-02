@@ -2,6 +2,8 @@
 
 Ce dépôt contient le code source de mon portfolio professionnel. Le projet adopte une esthétique "Comic-Noir" immersive pour présenter mon profil de développeur Full Stack.
 
+Lien direct vers le portfolio : [Consulter mon site](https://evdk25-wq.github.io/SHPortfolio/html/index.html)
+
 ## Identité Visuelle
 Le projet s'appuie sur une direction artistique forte inspirée de la bande dessinée noire classique.
 *   Nuancier : Noir d'encre, Beige crème, Rouge accent.
