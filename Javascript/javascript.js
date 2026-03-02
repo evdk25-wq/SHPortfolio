@@ -1,4 +1,4 @@
-const comicImagePath = "../Assets/accueil.png";
+const comicImagePath = "Assets/accueil.png";
 
 const menuBtn = document.getElementById('menuBtn');
 const mobileNav = document.getElementById('mobileNav');
